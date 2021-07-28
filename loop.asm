@@ -1,3 +1,4 @@
+# this is a proogram to print 0 - 99 to the cli in a loop 
 global _start
 SECTION .text
 
